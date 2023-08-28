@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi! I’m Neil - I’m 20, and I’m currently a junior at BITS Pilani. I’m majoring in Electronics and Communications Engineering, but I’m also very interested in Computer Science, Quantum Computing, Mathematics, Physics, Cosmology, Biology, Palaeontology and Archaeology.
